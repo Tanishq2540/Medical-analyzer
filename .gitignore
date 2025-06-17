@@ -1,0 +1,43 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Environment/secret config files
+*.env
+.env.*
+secrets.*
+apikey.*
+config.*
+
+# IDE settings
+.idea/
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb
+
+# Streamlit config/cache
+.streamlit/config.toml
+.streamlit/credentials.toml
+
+# Vector DB and storage
+chroma/
+vectorstore/
+
+# CSVs and data files (optional – include only if they contain sensitive or large data)
+portfolio.csv
+
+# Logs and miscellaneous
+*.log
+.DS_Store
+Thumbs.db
