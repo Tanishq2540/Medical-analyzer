@@ -67,6 +67,7 @@ python build_index.py
 
 # Run the app
 streamlit run app.py
+[DEMO VIDEO LINK](https://drive.google.com/file/d/1D0-xudIazWKbCx5BJy76s0m47XPiUenp/view?usp=sharing)
 
 
 🧾 Project Structure
@@ -82,4 +83,4 @@ streamlit run app.py
 🛑 Notes
 medical_book.pdf and chroma_db/ are .gitignored due to size limits.
 
-[DEMO VIDEO LINK](https://drive.google.com/file/d/1D0-xudIazWKbCx5BJy76s0m47XPiUenp/view?usp=sharing)
+
