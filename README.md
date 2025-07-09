@@ -83,4 +83,4 @@ streamlit run app.py
 medical_book.pdf and chroma_db/ are .gitignored due to size limits.
 
 **DEMO VIDEO LINK**
-https://drive.google.com/file/d/1D0-xudIazWKbCx5BJy76s0m47XPiUenp/view?usp=sharing
+[LINK TEXT](https://drive.google.com/file/d/1D0-xudIazWKbCx5BJy76s0m47XPiUenp/view?usp=sharing)
