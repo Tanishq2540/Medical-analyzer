@@ -35,7 +35,7 @@ A powerful medical assistant web app that uses **Retrieval-Augmented Generation 
 ---
 
 ## 🧾 Project Structure
-
+```
 ├── app.py # Main Streamlit app
 ├── build_index.py # Builds vector DB from PDF
 ├── text_qa.py # Handles text-based QA using RAG
@@ -43,7 +43,7 @@ A powerful medical assistant web app that uses **Retrieval-Augmented Generation 
 ├── requirements.txt
 ├── .env # Gemini API key (not tracked)
 └── chroma_db/ # Local vector DB (excluded from Git)
-
+```
 
 🛑 Notes:  
 `medical_book.pdf` and `chroma_db/` are `.gitignored` due to size limits.
