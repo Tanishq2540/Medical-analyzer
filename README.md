@@ -1,6 +1,6 @@
 # 🩺 AI Medical Assistant (Gemini 1.5 Flash + RAG + ChromaDB + Streamlit)
 
-A powerful medical assistant web app that uses **Retrieval-Augmented Generation (RAG)** to answer medical queries from a 4,500+ page textbook and analyze medical images using **Gemini 1.5 Flash**.
+A powerful medical assistant web app that uses **Retrieval-Augmented Generation (RAG)** to answer medical queries from a 4,500+ page textbook and analyze medical related images using **Gemini 1.5 Flash**.
 
 ---
 
@@ -14,13 +14,6 @@ A powerful medical assistant web app that uses **Retrieval-Augmented Generation 
 
 ---
 
-## 🚀 Demo
-
-> Replace with your actual deployment link (e.g. Streamlit Cloud)
-
-**Live App**: [Try the Assistant](https://your-streamlit-app-link.com)
-
----
 
 ## 🧠 How It Works
 
@@ -47,7 +40,7 @@ A powerful medical assistant web app that uses **Retrieval-Augmented Generation 
 - **LLM**: Gemini 1.5 Flash (Google Generative AI API)
 - **RAG**: SentenceTransformers + ChromaDB
 - **Frontend**: Streamlit
-- **PDF Parsing**: PyMuPDF (`fitz`)
+- **PDF Parsing**: PyMyPDF 
 - **Language**: Python 3.10+
 
 ---
