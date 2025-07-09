@@ -52,5 +52,5 @@ A powerful medical assistant web app that uses **Retrieval-Augmented Generation 
 
 ## 🎥 Demo
 
-[**📺 Watch Demo Video**](https://drive.google.com/file/d/1D0-xudIazWKbCx5BJy76s0m47XPiUenp/view?usp=sharing)
+[**📺 Watch Demo Video**](https://drive.google.com/file/d/1Bb04IEsVz2tqqIudtg8jywJurn3_-J99/view?usp=sharing)
 
