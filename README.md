@@ -82,7 +82,5 @@ streamlit run app.py
 🛑 Notes
 medical_book.pdf and chroma_db/ are .gitignored due to size limits.
 
-You'll need to supply your own PDF and run build_index.py.  
-
-📄 License
-This project is for educational/demo purposes only. It is not intended for diagnostic or clinical use.
+**DEMO VIDEO LINK**
+https://drive.google.com/file/d/1D0-xudIazWKbCx5BJy76s0m47XPiUenp/view?usp=sharing
